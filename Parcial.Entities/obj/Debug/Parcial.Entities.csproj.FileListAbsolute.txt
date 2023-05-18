@@ -1,0 +1,12 @@
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\Parcial.Entities.dll.config
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\Parcial.Entities.dll
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\Parcial.Entities.pdb
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\EntityFramework.dll
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\EntityFramework.xml
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\obj\Debug\Parcial.Entities.csproj.AssemblyReference.cache
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\obj\Debug\Parcial.Entities.csproj.CoreCompileInputs.cache
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\obj\Debug\Parcial.Entities.csproj.CopyComplete
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\obj\Debug\Parcial.Entities.dll
+C:\Users\UNABSO\source\repos\Parcial\Parcial.Entities\obj\Debug\Parcial.Entities.pdb
